@@ -1,0 +1,38 @@
+/* Application */
+.App {
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: 'Red Hat Display', sans-serif;
+  color: #FC6923;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: 'Red Hat Display', sans-serif;
+  margin-right:20%;
+  color: #605E5E;
+}
+
+h5 {
+  color:#605E5E;
+}
+
+/* Nav Bar */
+.navbar-brand {
+  margin-left:20%;
+}
+
+nav {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+/* Map */
+.map-container {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  margin-top:5%;
+  margin-bottom: 5%;
+}
+

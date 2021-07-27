@@ -1,0 +1,2228 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PDX A 2",
+                "address": "7000 NE Airport Way, MB#3",
+                "city": "Portland",
+                "state": "OR",
+                "account": "75916-104381",
+                "loanAmount": "$868,189",
+                "zipCode": "97218-1031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59481,
+                    45.58838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cornelius Pass & Butler, Hillsboro",
+                "address": "7399 NE Butler St.",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "13903-108317",
+                "loanAmount": "$2,069,624",
+                "zipCode": "97124-9434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.900644,
+                    45.538196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cascade Station- Portland",
+                "address": "10119 NE Cascade Parkway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "11544-103918",
+                "loanAmount": "$509,301",
+                "zipCode": "97220-6815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.557867,
+                    45.572907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SW Cedar Hills and SW Hall",
+                "address": "3590 Cedar Hills Boulevard",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "14028-108063",
+                "loanAmount": "$2,000,202",
+                "zipCode": "97005-2036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.809862,
+                    45.493617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reedville Crossing- Hillsboro",
+                "address": "2995 SE 75th Ave.",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "13325-104562",
+                "loanAmount": "$2,167,135",
+                "zipCode": "97123-6210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.905115,
+                    45.498002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valley Plaza- Beaverton",
+                "address": "9350 SW Beaverton HIllsdale Hwy",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "10169-99666",
+                "loanAmount": "$1,837,266",
+                "zipCode": "97005-3313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.772733,
+                    45.48608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer-Portland #125",
+                "address": "6615 NE Glisan St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79496-94713",
+                "loanAmount": "$536,708",
+                "zipCode": "97213-5068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59593,
+                    45.527275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cornell Rd & 48th Ave- Hillsboro",
+                "address": "1221 NE 48th Ave",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "13267-104560",
+                "loanAmount": "$853,781",
+                "zipCode": "97124-5008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.935336,
+                    45.533756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Portland/Woodstock #1523",
+                "address": "4515 SE Woodstock",
+                "city": "Woodstock",
+                "state": "OR",
+                "account": "74376-101348",
+                "loanAmount": "$2,333,187",
+                "zipCode": "97206-6222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.616204,
+                    45.479907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NE Airport Way & 122nd- Portland",
+                "address": "12518 NE Airport Way",
+                "city": "Portland",
+                "state": "OR",
+                "account": "11545-104200",
+                "loanAmount": "$1,741,943",
+                "zipCode": "97230-1000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.533811,
+                    45.564665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "39th & Holgate- Portland",
+                "address": "4437 SE 39th Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "10051-97663",
+                "loanAmount": "$2,217,369",
+                "zipCode": "97202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62299,
+                    45.490384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tektronix",
+                "address": "1400 SW Karl Braun Dr",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "75291-98412",
+                "loanAmount": "$1,923,095",
+                "zipCode": "97077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8025,
+                    45.4872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer-Hillsboro #143",
+                "address": "6495 SE Tualatin Valley Hwy",
+                "city": "Tualatin",
+                "state": "OR",
+                "account": "72991-93502",
+                "loanAmount": "$1,809,530",
+                "zipCode": "97123-7482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.914592,
+                    45.499612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "First & Main St. - Hillsboro",
+                "address": "102 E. Main St.",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "9498-94401",
+                "loanAmount": "$2,394,475",
+                "zipCode": "97123-4028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98947,
+                    45.522567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Portland #509",
+                "address": "5920 NE Martin Luther King Blvd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79502-104095",
+                "loanAmount": "$1,825,978",
+                "zipCode": "97211-3120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.660482,
+                    45.565941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer - Peninsula #255",
+                "address": "6850 North Lombard",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79336-101746",
+                "loanAmount": "$1,220,560",
+                "zipCode": "97203-6247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.738137,
+                    45.586425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Portland #1612",
+                "address": "1100 NE Broadway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79501-104105",
+                "loanAmount": "$834,177",
+                "zipCode": "97232-1232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.654543,
+                    45.534763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Portland #382",
+                "address": "3527 SE 122nd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79541-101961",
+                "loanAmount": "$932,331",
+                "zipCode": "97236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53881,
+                    45.496246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15th & Broadway",
+                "address": "1510 NE Broadway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "409-179",
+                "loanAmount": "$2,090,945",
+                "zipCode": "97232-1407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.650157,
+                    45.534901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & Oak",
+                "address": "305 SW 4th Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "412-182",
+                "loanAmount": "$1,589,261",
+                "zipCode": "97204-2342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67529,
+                    45.52115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hillsdale, OR",
+                "address": "6326 SW Capitol Highway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "433-153",
+                "loanAmount": "$2,499,254",
+                "zipCode": "97239-1938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.694836,
+                    45.478139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6th & Washington",
+                "address": "601 SW Washington St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "455-1043",
+                "loanAmount": "$1,819,906",
+                "zipCode": "97205-3514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.677971,
+                    45.520554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Multnomah",
+                "address": "7737 SW Capitol Highway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "417-185",
+                "loanAmount": "$2,322,492",
+                "zipCode": "97219-2458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.711426,
+                    45.468631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pioneer Courthouse",
+                "address": "720 SW Broadway",
+                "city": "Portland",
+                "state": "OR",
+                "account": "401-172",
+                "loanAmount": "$2,238,385",
+                "zipCode": "97205-3315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.679504,
+                    45.519095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer-Staduim #360",
+                "address": "100 NW 20th Place",
+                "city": "Portland",
+                "state": "OR",
+                "account": "72744-71580",
+                "loanAmount": "$1,256,728",
+                "zipCode": "97209-1099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.692979,
+                    45.523823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centerpoint - Lake Oswego",
+                "address": "8 Centerpointe Drive",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "9371-96415",
+                "loanAmount": "$1,348,089",
+                "zipCode": "97035-8668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.739562,
+                    45.419943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sylvan Retail- Portland",
+                "address": "1850 SW Skyline Blvd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "11200-104422",
+                "loanAmount": "$1,792,843",
+                "zipCode": "97221-2535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.734934,
+                    45.509517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hall & Nimbus- Beaverton",
+                "address": "8400 SW Nimbus Ave",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "10466-100969",
+                "loanAmount": "$683,346",
+                "zipCode": "97008-7133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.789344,
+                    45.458934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20th & Burnside- Portland",
+                "address": "1972 West Burnside St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "11374-103921",
+                "loanAmount": "$889,956",
+                "zipCode": "97209-2086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.691685,
+                    45.523026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Portland #1451",
+                "address": "221 NE 122nd Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79540-104109",
+                "loanAmount": "$967,926",
+                "zipCode": "97220-4106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.538411,
+                    45.524839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FuBonn Shopping Center- Portland",
+                "address": "2834 SE 82nd Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "10465-99640",
+                "loanAmount": "$865,567",
+                "zipCode": "97266-1556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.578342,
+                    45.50202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Portland NE T-2523",
+                "address": "9401 NE Cascades Pkwy",
+                "city": "Portland",
+                "state": "OR",
+                "account": "5109-148124",
+                "loanAmount": "$2,238,720",
+                "zipCode": "97220-6824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56538,
+                    45.575863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer - Hillsboro #661",
+                "address": "22075 NW Imbrie Dr.",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "72708-33980",
+                "loanAmount": "$1,371,802",
+                "zipCode": "97124-7578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.902925,
+                    45.551474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meadows Road",
+                "address": "5800 Meadows Rd",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "3398-39679",
+                "loanAmount": "$1,814,822",
+                "zipCode": "97035-8238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.737941,
+                    45.41743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eastport Plaza",
+                "address": "4328 SE 82nd Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3399-77141",
+                "loanAmount": "$579,892",
+                "zipCode": "97266-2952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57856,
+                    45.490554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goose Hollow",
+                "address": "1710 SW Jefferson Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3390-75081",
+                "loanAmount": "$2,463,477",
+                "zipCode": "97201-2571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.691937,
+                    45.517709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gateway",
+                "address": "10112 N.E. HALSEY Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "480-12794",
+                "loanAmount": "$2,405,468",
+                "zipCode": "97220-4476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.559515,
+                    45.53334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #1627",
+                "address": "3940 SE Powell",
+                "city": "Portland",
+                "state": "OR",
+                "account": "74193-26809",
+                "loanAmount": "$1,261,481",
+                "zipCode": "97202-1722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.621669,
+                    45.496976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "21st & Lovejoy",
+                "address": "1012 NW 21st Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "428-156",
+                "loanAmount": "$912,960",
+                "zipCode": "97209-1512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.694395,
+                    45.530155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanasbourne",
+                "address": "18320 NW Evergreen Pkwy",
+                "city": "Aloha",
+                "state": "OR",
+                "account": "442-15",
+                "loanAmount": "$1,975,876",
+                "zipCode": "97006-7443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.865718,
+                    45.537469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1st Street & Columbia",
+                "address": "1 S.W. Columbia Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "451-917",
+                "loanAmount": "$2,325,578",
+                "zipCode": "97258-2002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675557,
+                    45.513095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lloyd Center",
+                "address": "925 Lloyd Center",
+                "city": "Portland",
+                "state": "OR",
+                "account": "410-180",
+                "loanAmount": "$1,831,667",
+                "zipCode": "97232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.655164,
+                    45.53221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pearl District",
+                "address": "1134 NW Glisan Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "466-1595",
+                "loanAmount": "$1,977,671",
+                "zipCode": "97209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.683031,
+                    45.526363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5th & Oak/US Bank Tower",
+                "address": "555 S.W. Oak Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "469-1380",
+                "loanAmount": "$2,105,077",
+                "zipCode": "97204-1706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676459,
+                    45.52174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doernbecher/Hospital",
+                "address": "700 SW Campus Drive",
+                "city": "Portland",
+                "state": "OR",
+                "account": "471-2064",
+                "loanAmount": "$1,877,174",
+                "zipCode": "97201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.685693,
+                    45.497823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beaverton",
+                "address": "11405 SW Beaverton-Hillsdale Hwy",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "408-14",
+                "loanAmount": "$2,444,104",
+                "zipCode": "97005-2929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.795262,
+                    45.487665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Oswego - State Street",
+                "address": "47 North State Street",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "440-13",
+                "loanAmount": "$649,246",
+                "zipCode": "97034-3969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.663278,
+                    45.416157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garden Home Marketplace",
+                "address": "7315 SW Garden Home Road",
+                "city": "Portland",
+                "state": "OR",
+                "account": "454-723",
+                "loanAmount": "$1,939,096",
+                "zipCode": "97223-9522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.751293,
+                    45.466945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park & Clay",
+                "address": "1440 S.W. Park Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "470-1963",
+                "loanAmount": "$826,353",
+                "zipCode": "97201-3400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.683175,
+                    45.514242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Essex House",
+                "address": "1300 SW Third Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "414-1704",
+                "loanAmount": "$2,077,199",
+                "zipCode": "97201-5867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67753,
+                    45.514018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanasbourne West",
+                "address": "22055 NW Imbrie Drive",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "496-23249",
+                "loanAmount": "$1,275,629",
+                "zipCode": "97124-6993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.903747,
+                    45.550601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milwaukie Marketplace",
+                "address": "10826 SE Oak Street",
+                "city": "Milwaukie",
+                "state": "OR",
+                "account": "3374-67080",
+                "loanAmount": "$1,785,431",
+                "zipCode": "97222-6694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.627636,
+                    45.443935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burlingame",
+                "address": "8510 SW Terwilliger Blvd.",
+                "city": "Portland",
+                "state": "OR",
+                "account": "473-4109",
+                "loanAmount": "$820,180",
+                "zipCode": "97219-4564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684497,
+                    45.462927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15th & Fremont",
+                "address": "3507 N.E. 15th Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "475-7987",
+                "loanAmount": "$1,399,364",
+                "zipCode": "97212-2356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.651182,
+                    45.54837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer-Portland #150(Interstate",
+                "address": "7404 N Interstate Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "72910-94263",
+                "loanAmount": "$646,189",
+                "zipCode": "97217-5528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681115,
+                    45.575886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Lake Oswego #508",
+                "address": "401 A Avenue",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "74424-93971",
+                "loanAmount": "$1,801,236",
+                "zipCode": "97034-3037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.668431,
+                    45.420702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #2448",
+                "address": "1030 SW Jefferson",
+                "city": "Portland",
+                "state": "OR",
+                "account": "74421-82462",
+                "loanAmount": "$1,566,816",
+                "zipCode": "97201-3449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684788,
+                    45.515478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grand & Broadway",
+                "address": "1621 NE Grand Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3714-12516",
+                "loanAmount": "$1,590,152",
+                "zipCode": "97232-1154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.660951,
+                    45.534697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albertsons - Shattuck Rd #505",
+                "address": "5415 S.W. Beav.-Hillsdale Hwy.",
+                "city": "Portland",
+                "state": "OR",
+                "account": "73396-24377",
+                "loanAmount": "$2,233,180",
+                "zipCode": "97221-1918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.732397,
+                    45.487538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albertsons 3531 @ Lake Oswego",
+                "address": "16199 Boones Ferry Rd.",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "73593-24389",
+                "loanAmount": "$1,659,650",
+                "zipCode": "97035-4201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.722859,
+                    45.409409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #1223",
+                "address": "11919 N Jantzen Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "74107-22882",
+                "loanAmount": "$639,768",
+                "zipCode": "97217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.678606,
+                    45.610245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbur Blvd. & Terwillger",
+                "address": "7421 SW Barbur Boulevard",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3713-82764",
+                "loanAmount": "$513,929",
+                "zipCode": "97219-2886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.685791,
+                    45.471383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cornell & Stucki",
+                "address": "2002 NW Stucki Avenue",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "2866-25929",
+                "loanAmount": "$515,478",
+                "zipCode": "97124-7714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.876839,
+                    45.534623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fred Meyer - Gateway #128",
+                "address": "1111 NE 102nd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "73737-106087",
+                "loanAmount": "$732,451",
+                "zipCode": "97220-3902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.561364,
+                    45.530732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "117th & Canyon - Beaverton",
+                "address": "4037 SW 117th Avenue",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "2915-85627",
+                "loanAmount": "$1,058,442",
+                "zipCode": "97005-8900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.798502,
+                    45.490011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23rd & Burnside",
+                "address": "2328 W. Burnside, Suite #2",
+                "city": "Portland",
+                "state": "OR",
+                "account": "2925-93248",
+                "loanAmount": "$539,175",
+                "zipCode": "97210-3537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.698686,
+                    45.523133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbur & Capitol",
+                "address": "10010 S.W. Barbur Blvd.",
+                "city": "Portland",
+                "state": "OR",
+                "account": "8737-94357",
+                "loanAmount": "$2,327,585",
+                "zipCode": "97219-5903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.722143,
+                    45.452895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-St. Johns #1951",
+                "address": "8330 N Ivanhoe St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "74458-82467",
+                "loanAmount": "$1,697,872",
+                "zipCode": "97203-4824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.752534,
+                    45.587851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cedar Hills Crossing",
+                "address": "3205 SW Cedar Hills Blvd.",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "427-94723",
+                "loanAmount": "$878,148",
+                "zipCode": "97005-1339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.810485,
+                    45.496395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "39th & Sandy",
+                "address": "1633 NE 39th",
+                "city": "Portland",
+                "state": "OR",
+                "account": "491-31999",
+                "loanAmount": "$2,330,603",
+                "zipCode": "97232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.623161,
+                    45.534928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9th & Taylor",
+                "address": "906 SW Taylor Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3301-12515",
+                "loanAmount": "$2,292,795",
+                "zipCode": "97205-2501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682033,
+                    45.51835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Beaverton #2631",
+                "address": "14555 SW Teal Blvd",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "74325-79122",
+                "loanAmount": "$1,284,861",
+                "zipCode": "97007-6193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.826635,
+                    45.442316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kearney Plaza",
+                "address": "1102 NW Lovejoy Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "3380-73820",
+                "loanAmount": "$1,442,232",
+                "zipCode": "97209-3470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682611,
+                    45.529935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sellwood/West Moreland",
+                "address": "7001 SE Milwaukee Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "413-183",
+                "loanAmount": "$1,540,856",
+                "zipCode": "97202-5718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.648871,
+                    45.473618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Johns",
+                "address": "8539 N Lombard",
+                "city": "Portland",
+                "state": "OR",
+                "account": "431-151",
+                "loanAmount": "$826,672",
+                "zipCode": "97203-3103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.754602,
+                    45.590262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Grove",
+                "address": "16398 SW Boones Ferry Road",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "438-147",
+                "loanAmount": "$1,746,842",
+                "zipCode": "97035-4262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.724751,
+                    45.407459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oswego Town Square",
+                "address": "3 Monroe Parkway",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "461-1346",
+                "loanAmount": "$1,598,151",
+                "zipCode": "97035-8875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.701835,
+                    45.433461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #1447",
+                "address": "6901 NE Sandy Blvd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "74277-35465",
+                "loanAmount": "$2,174,490",
+                "zipCode": "97213-5255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.592338,
+                    45.547838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beaumont",
+                "address": "4633 NE Fremont St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "437-148",
+                "loanAmount": "$2,477,554",
+                "zipCode": "97213-1723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61534,
+                    45.548396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walker Rd /Fred Meyer",
+                "address": "16005 S.W. Walker Road",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "456-1003",
+                "loanAmount": "$2,062,745",
+                "zipCode": "97006-4942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.841621,
+                    45.51854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Portland T-1419",
+                "address": "9800 SE Washington St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "72697-77801",
+                "loanAmount": "$1,112,836",
+                "zipCode": "97216-2420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.562486,
+                    45.516118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "One World Trade Center",
+                "address": "910 SW 2nd Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "402-173",
+                "loanAmount": "$2,260,851",
+                "zipCode": "97204-3002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675015,
+                    45.516483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Hollywood",
+                "address": "3030 NE Weidler",
+                "city": "Portland",
+                "state": "OR",
+                "account": "419-163",
+                "loanAmount": "$1,903,299",
+                "zipCode": "97232-1851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.635083,
+                    45.53366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albertsons - Cornell Rd #591",
+                "address": "888 NE 25th Ave",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "73479-40442",
+                "loanAmount": "$1,037,657",
+                "zipCode": "97124-5975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.955154,
+                    45.530139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9th & Park",
+                "address": "1717 S.W. Park Ave",
+                "city": "Portland",
+                "state": "OR",
+                "account": "8719-94366",
+                "loanAmount": "$1,206,587",
+                "zipCode": "97201-3267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.685385,
+                    45.512883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Hillsboro #1230",
+                "address": "2177 NW 185th",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "74303-77222",
+                "loanAmount": "$2,411,996",
+                "zipCode": "97124-7074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.869673,
+                    45.536835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macadam Avenue",
+                "address": "6080 SW Macadam",
+                "city": "Portland",
+                "state": "OR",
+                "account": "432-152",
+                "loanAmount": "$1,349,294",
+                "zipCode": "97239-3650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.672699,
+                    45.479778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glisan Avenue",
+                "address": "4500 NE Glisan",
+                "city": "Portland",
+                "state": "OR",
+                "account": "435-149",
+                "loanAmount": "$2,461,991",
+                "zipCode": "97213-2333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.616033,
+                    45.526269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pac-West",
+                "address": "1211 S.W. 5th Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "450-1004",
+                "loanAmount": "$1,431,572",
+                "zipCode": "97204-1911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.679727,
+                    45.515316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "23rd & Overton",
+                "address": "1301 NW 23rd Ave.",
+                "city": "Portland",
+                "state": "OR",
+                "account": "477-5346",
+                "loanAmount": "$1,839,041",
+                "zipCode": "97210-2601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.698797,
+                    45.532078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SE 126th and Division",
+                "address": "12613 SE Division",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14042-108068",
+                "loanAmount": "$778,471",
+                "zipCode": "97236-3131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53346,
+                    45.504223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SE 36th and Powell",
+                "address": "3623 SE Powell",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14041-108067",
+                "loanAmount": "$750,830",
+                "zipCode": "97202-1879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.625686,
+                    45.497273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piedmont",
+                "address": "6003 NE MLK Drive",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14047-108074",
+                "loanAmount": "$1,761,956",
+                "zipCode": "97213-4035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.661819,
+                    45.566663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10th Ave",
+                "address": "215 SE 10th Avenue",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "14031-108061",
+                "loanAmount": "$2,324,136",
+                "zipCode": "97123-4237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.974133,
+                    45.52084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NW Town Center Dr & Tanasbourne Dr",
+                "address": "2711 NW Town Center Dr. #1",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "14026-108060",
+                "loanAmount": "$1,913,089",
+                "zipCode": "97006-8951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86656,
+                    45.539192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Beaverton #1073",
+                "address": "6194 SW Murray Blvd",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "79525-97822",
+                "loanAmount": "$1,854,036",
+                "zipCode": "97008-4420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.825356,
+                    45.475327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QFC-Portland #205 (Mt. Tabor)",
+                "address": "5544 East Burnside St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "79416-103054",
+                "loanAmount": "$1,720,407",
+                "zipCode": "97215-1259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60667,
+                    45.522611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway - Milwaukie #2690",
+                "address": "4300 SE King Rd",
+                "city": "Milwaukie",
+                "state": "OR",
+                "account": "79597-100303",
+                "loanAmount": "$1,730,267",
+                "zipCode": "97222-5281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61843,
+                    45.447118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forest Heights- Portland",
+                "address": "2021 NW Miller Road",
+                "city": "Portland",
+                "state": "OR",
+                "account": "9337-95115",
+                "loanAmount": "$1,012,354",
+                "zipCode": "97229-7515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.779562,
+                    45.537298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McVey",
+                "address": "1175 McVey Ave.",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "464-1598",
+                "loanAmount": "$1,386,518",
+                "zipCode": "97034-4721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676347,
+                    45.406632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portland State",
+                "address": "603 SW Jackson, Suite 116",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14040-108059",
+                "loanAmount": "$534,406",
+                "zipCode": "97201-4922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684231,
+                    45.509196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #2790",
+                "address": "1303 NW Lovejoy St",
+                "city": "Portland",
+                "state": "OR",
+                "account": "70338-132825",
+                "loanAmount": "$1,159,012",
+                "zipCode": "97209-2785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68445,
+                    45.53006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NE Grand and Lloyd",
+                "address": "525 NE Grand Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14045-108072",
+                "loanAmount": "$958,524",
+                "zipCode": "97232-2726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.660938,
+                    45.527007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SE 102nd and Stark",
+                "address": "10215 SE Stark",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14044-108071",
+                "loanAmount": "$1,393,011",
+                "zipCode": "97216-2741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558044,
+                    45.519238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NE MLK and Weidler",
+                "address": "1503 NE MLK",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14046-108073",
+                "loanAmount": "$1,584,278",
+                "zipCode": "97232-1137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.661939,
+                    45.533954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "13th & Tacoma",
+                "address": "1305 SE Tacoma Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "465-1682",
+                "loanAmount": "$873,322",
+                "zipCode": "97202-6639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65274,
+                    45.464537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "28th & Burnside",
+                "address": "2803 East Burnside",
+                "city": "Portland",
+                "state": "OR",
+                "account": "420-164",
+                "loanAmount": "$1,243,536",
+                "zipCode": "97214-1829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.637099,
+                    45.523053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hawthorne",
+                "address": "3639 SE Hawthorne Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "405-177",
+                "loanAmount": "$646,604",
+                "zipCode": "97214-5143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62608,
+                    45.512185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orenco Station",
+                "address": "6221 NE Cornell Rd",
+                "city": "Hillsboro",
+                "state": "OR",
+                "account": "472-1839",
+                "loanAmount": "$982,374",
+                "zipCode": "97124-9074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.916583,
+                    45.534211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Murray & Scholls",
+                "address": "14600 SW Murray Scholls Dr",
+                "city": "Beaverton",
+                "state": "OR",
+                "account": "478-2786",
+                "loanAmount": "$1,119,944",
+                "zipCode": "97007-9712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82666,
+                    45.438224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6th and Salmon",
+                "address": "1009 S.W. 6th Avenue",
+                "city": "Portland",
+                "state": "OR",
+                "account": "474-1392",
+                "loanAmount": "$2,489,677",
+                "zipCode": "97204-1102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.679956,
+                    45.517015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Douglas Way & Boones Ferry Road",
+                "address": "15645 Boons Ferry Rd - Lake Oswego",
+                "city": "Lake Oswego",
+                "state": "OR",
+                "account": "15430-155525",
+                "loanAmount": "$1,994,987",
+                "zipCode": "97035-3432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.717519,
+                    45.412853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brewery Blocks - Portland",
+                "address": "1039 NW Couch Street",
+                "city": "Portland",
+                "state": "OR",
+                "account": "15510-158404",
+                "loanAmount": "$1,019,035",
+                "zipCode": "97209-4116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68204,
+                    45.523761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2nd & Main - Portland",
+                "address": "100 SW Main St.",
+                "city": "Portland",
+                "state": "OR",
+                "account": "14998-154085",
+                "loanAmount": "$2,187,537",
+                "zipCode": "97204-3218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675872,
+                    45.515155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4th & Morrison - Portland",
+                "address": "419 SW Morrison",
+                "city": "Portland",
+                "state": "OR",
+                "account": "15727-156713",
+                "loanAmount": "$1,891,024",
+                "zipCode": "97204-2503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676725,
+                    45.518732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Safeway-Portland #3134",
+                "address": "2800 SE Hawthorne Blvd",
+                "city": "Portland",
+                "state": "OR",
+                "account": "16862-170379",
+                "loanAmount": "$1,282,963",
+                "zipCode": "97214-2945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.637465,
+                    45.511707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Target Portland T-2779",
+                "address": "1555 N TOMAHAWK ISLAND DR",
+                "city": "Portland",
+                "state": "OR",
+                "account": "18116-172345",
+                "loanAmount": "$1,825,198",
+                "zipCode": "97217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.677485,
+                    45.610464
+                ]
+            }
+        }
+    ]
+}
